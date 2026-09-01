@@ -68,3 +68,10 @@ button {
 button:hover {
   background-color: #005bb5;
 }
+.footer-vert {
+  background-color: palegreen;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
