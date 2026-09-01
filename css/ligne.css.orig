@@ -1,5 +1,4 @@
-
- h1{
+h1 {
   color: #00cc9c;
   font-family: Arial, sans-serif;
   font-size: 2.5em;
@@ -69,6 +68,7 @@ button {
 button:hover {
   background-color: #005bb5;
 }
+<<<<<<< HEAD
 .footer-sombre {
   background-color: #333;
   color: white;
@@ -76,8 +76,10 @@ button:hover {
   padding: 15px;
   margin-top: 30px;
   border-radius: 4px;
-}
+=======
+
 .menu {
   background-color: palegreen;
   color: white;
+>>>>>>> b67e2f6 (menu vert pale)
 }
